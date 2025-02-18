@@ -55,7 +55,7 @@ Set you email address, password, IMAP server and port and you are ready to go.
 
 ### Settings
 
-Configure backup shedule and filters
+Configure backup shedule and filters.
 
 <p align="center">
   <img src="https://github.com/TheRealHuzy/MailRoom/blob/main/Assets/Settings.png" />
